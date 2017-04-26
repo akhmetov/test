@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "e244f554dc1786e8649e413f329beb21",
+    "content-hash": "2cf8838f111813b81ef29fe4b209c793",
+    "packages": [
+        {
+            "name": "akhmetov/foobar",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/akhmetov/foobar.git",
+                "reference": "527e8f7da6036e84adee5963a563b4843fb8fb01"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/akhmetov/foobar/zipball/527e8f7da6036e84adee5963a563b4843fb8fb01",
+                "reference": "527e8f7da6036e84adee5963a563b4843fb8fb01",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "FooBar\\": "src/"
+                }
+            },
+            "support": {
+                "source": "https://github.com/akhmetov/foobar/tree/1.0.0",
+                "issues": "https://github.com/akhmetov/foobar/issues"
+            },
+            "time": "2017-04-26 17:46:50"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
